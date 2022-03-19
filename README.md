@@ -1,2 +1,2 @@
 # part1
-course information
+course info
